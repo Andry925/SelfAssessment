@@ -1,10 +1,11 @@
 ## Programming fundamental concepts
 
+
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
+  - Object: 🎓 known
+  - this: 👂 heard
+  - arrow function: 🎓 known
+  - async function: 👂 heard
   - call
   - bind
   - apply
@@ -13,67 +14,67 @@
   - ...rest
   - typeof
   - destructuring
-  - generator
-  - iterator
+  - generator: 👂 heard
+  - iterator: 👂 heard
   - async generator
   - async iterator
   - chaining
   - optional chaining
   - IIFE
-  - global
+  - global: 🎓 known
   - globalThis
   - window
   - getters and setters
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
+  - equality operators: 🎓 known
+  - logical operators: 🎓 known
+  - bitwise operators: 🎓 known
+  - ternary operator: 🎓 known
+  - void: 🎓 known
   - yield
   - await
   - template literal
   - strict mode
   - delete
-  - in
-  - super
+  - in: 🎓 known
+  - super: 👂 heard
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
+  - if: 🎓 known
+  - while: 🎓 known
+  - do..while: 🎓 known
+  - for: 🎓 known
   - for..in
   - for..of
   - for await
   - throw
-  - break
-  - continue
-  - import
+  - break: 🎓 known
+  - continue: 🎓 known
+  - import: 🎓 known
   - export
   - label
   - try..catch
   - switch
-  - class
+  - class: 👂 heard
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
+  - function declaration: 🎓 known
+  - function expression: 🎓 known
+  - return: 🎓 known
+  - default parameters: 🎓 known
   - functional object
 - Data structures
-  - Array
+  - Array: 🎓 known
   - mixin
   - extend
   - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
+  - Map: 🎓 known
+  - Set: 👂 heard
+  - undefined: 🎓 known
+  - null: 🎓 known
   - Proxy
   - weak collections
   - timers
@@ -83,7 +84,7 @@
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
-  - npm
+  - Node.js: 👂 heard
+  - npm: 👂 heard
   - prettier
   - MDN
