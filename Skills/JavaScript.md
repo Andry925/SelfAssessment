@@ -9,10 +9,10 @@
   - call
   - bind
   - apply
-  - instanceof
+  - instanceof: 🎓 known
   - ...spread
   - ...rest
-  - typeof
+  - typeof: 🎓 known
   - destructuring
   - generator: 👂 heard
   - iterator: 👂 heard
@@ -32,13 +32,13 @@
   - bitwise operators: 🎓 known
   - ternary operator: 🎓 known
   - void: 🎓 known
-  - yield
-  - await
+  - yield: 🎓 known
+  - await: 🎓 known
   - template literal
   - strict mode
   - delete
   - in: 🎓 known
-  - super: 👂 heard
+  - super: 🎓 known
   - Symbol
   - Reflect
 - Statements
@@ -49,13 +49,13 @@
   - for..in
   - for..of
   - for await
-  - throw
+  - throw: 🎓 known
   - break: 🎓 known
   - continue: 🎓 known
   - import: 🎓 known
   - export
   - label
-  - try..catch
+  - try..catch: 👂 heard
   - switch
   - class: 👂 heard
   - new Error

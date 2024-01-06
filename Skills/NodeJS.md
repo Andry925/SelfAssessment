@@ -66,8 +66,8 @@
   - Separation of concerns
   - Inversion of control
   - Dependency injection
-  - GRASP
-  - SOLID
+  - GRASP: 👂 heard
+  - SOLID: 👂 heard
   - GoF patterns
   - Distributed systems
   - Highload applications
@@ -86,31 +86,31 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
+  - HTTP(S): 🖐️ used
+  - TCP/SSL: 🎓 known
+  - UDP: 🎓 known
+  - TLS: 🎓 known
+  - Websocket: 👂 heard
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST: 🎓 known
   - RPC
-  - Routing
-  - DoS
-  - DDoS
+  - Routing: 🎓 known
+  - DoS: 👂 heard
+  - DDoS: 👂 heard
   - XSS
   - Path traversal
-  - CSRF
-  - DNS
+  - CSRF: 🖐️ used
+  - DNS: 🎓 known
   - Fetch API
   - IncomingMessage
-  - SQL injection
+  - SQL injection: 👂 heard
   - noDelay
   - keep-alive
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates: 👂 heard
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
@@ -134,14 +134,14 @@
   - Repository
   - Active record
   - Query builder
-  - Object-Relational Mapping
+  - Object-Relational Mapping: 🖐️ used
 - Error handling and debugging
   - Error
   - error.cause
   - error.code
   - error.message
   - error.stack
-  - How to avoid mixins
+  - How to avoid mixins: 👂 heard
   - Error.captureStackTrace
   - Uncaught exceptions
   - Heap dump
